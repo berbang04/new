@@ -1,10 +1,13 @@
 p {
     font-size: 20px;
-    color: goldenrod;
+    color:black;
 
 }
-i:hover{
+fa fa-twitter:hover{
     
     color: 	#1DA1F2;
   
+}
+fa fa-github:hover{
+    color: black;
 }
