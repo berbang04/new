@@ -1,8 +1,9 @@
 p {
-    font-size: 40px;
+    font-size: 20px;
     color: goldenrod;
 
 }
 i:hover{
     background-color: blue;
+  
 }
