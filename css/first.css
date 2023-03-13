@@ -6,3 +6,8 @@
 #i1:hover{
     color: black;
 }
+.container-fluid{
+    position: fixed;
+    background-color: #fff;
+    
+}
